@@ -1,6 +1,7 @@
-name: flutter_common_utils
+name: ivy_flutter_common_utils
 description: A new Flutter package.
-version: 0.0.1
+version: 2.2.0
+repository: https://github.com/fine1021/flutter_common_utils.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

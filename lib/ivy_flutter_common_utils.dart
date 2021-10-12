@@ -1,4 +1,4 @@
-library flutter_common_utils;
+library ivy_flutter_common_utils;
 
 export 'src/context_provider.dart';
 export 'src/event_bus.dart';
